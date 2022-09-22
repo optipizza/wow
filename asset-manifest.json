@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alau/static/css/main.dc56fa15.chunk.css",
+    "main.js": "/alau/static/js/main.6eacda50.chunk.js",
+    "main.js.map": "/alau/static/js/main.6eacda50.chunk.js.map",
+    "runtime-main.js": "/alau/static/js/runtime-main.f3cf6732.js",
+    "runtime-main.js.map": "/alau/static/js/runtime-main.f3cf6732.js.map",
+    "static/js/2.744d4cea.chunk.js": "/alau/static/js/2.744d4cea.chunk.js",
+    "static/js/2.744d4cea.chunk.js.map": "/alau/static/js/2.744d4cea.chunk.js.map",
+    "index.html": "/alau/index.html",
+    "precache-manifest.d8e002956b6ae422b0609189ff1d5794.js": "/alau/precache-manifest.d8e002956b6ae422b0609189ff1d5794.js",
+    "service-worker.js": "/alau/service-worker.js",
+    "static/css/main.dc56fa15.chunk.css.map": "/alau/static/css/main.dc56fa15.chunk.css.map",
+    "static/js/2.744d4cea.chunk.js.LICENSE.txt": "/alau/static/js/2.744d4cea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3cf6732.js",
+    "static/js/2.744d4cea.chunk.js",
+    "static/css/main.dc56fa15.chunk.css",
+    "static/js/main.6eacda50.chunk.js"
+  ]
+}
