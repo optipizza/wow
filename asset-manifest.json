@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wow/static/css/main.dc56fa15.chunk.css",
+    "main.js": "/wow/static/js/main.64831f4e.chunk.js",
+    "main.js.map": "/wow/static/js/main.64831f4e.chunk.js.map",
+    "runtime-main.js": "/wow/static/js/runtime-main.0817d79c.js",
+    "runtime-main.js.map": "/wow/static/js/runtime-main.0817d79c.js.map",
+    "static/js/2.744d4cea.chunk.js": "/wow/static/js/2.744d4cea.chunk.js",
+    "static/js/2.744d4cea.chunk.js.map": "/wow/static/js/2.744d4cea.chunk.js.map",
+    "index.html": "/wow/index.html",
+    "precache-manifest.aa46a5a5802af033dc7fd9fd1ddc86e7.js": "/wow/precache-manifest.aa46a5a5802af033dc7fd9fd1ddc86e7.js",
+    "service-worker.js": "/wow/service-worker.js",
+    "static/css/main.dc56fa15.chunk.css.map": "/wow/static/css/main.dc56fa15.chunk.css.map",
+    "static/js/2.744d4cea.chunk.js.LICENSE.txt": "/wow/static/js/2.744d4cea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0817d79c.js",
+    "static/js/2.744d4cea.chunk.js",
+    "static/css/main.dc56fa15.chunk.css",
+    "static/js/main.64831f4e.chunk.js"
+  ]
+}
